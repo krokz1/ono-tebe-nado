@@ -29,8 +29,7 @@ p,
 ul,
 ol,
 li,
-blockquote,
-button {
+blockquote {
   margin: 0;
   padding: 0;
 }
@@ -41,6 +40,16 @@ a {
 
 img {
   width: 100%;
+}
+
+button {
+  padding: 0;
+  margin: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
 }
 
 .main {
