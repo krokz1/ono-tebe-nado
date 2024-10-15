@@ -7,7 +7,6 @@
 }
 
 .header-container {
-  display: block;
   display: grid;
   position: relative;
   bottom: 4px;
@@ -146,7 +145,6 @@
 }
 
 .cover__description {
-  display: block;
   display: flex;
   position: relative;
   z-index: 1;
