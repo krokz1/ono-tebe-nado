@@ -52,6 +52,7 @@
 .address {
   position: relative;
   right: 50px;
+  text-underline-position: under;
   justify-self: end;
   width: 241px;
   height: 98px;
@@ -59,7 +60,6 @@
   font-size: 18px;
   font-weight: 400;
   line-height: 1.4;
-  text-underline-position: under;
 }
 
 .adress_text {
